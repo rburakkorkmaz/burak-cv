@@ -1,2 +1,2 @@
 # burak-cv
-My Professional CV
+HTML/CSS Coding Exercise
